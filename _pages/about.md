@@ -9,7 +9,7 @@ redirect_from:
 ---  
 Welcome to my personal website!
 
-I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working under [Enoch Lu](https://www.linkedin.com/in/enoch-lu-17a70546)'s lead. I received my Ph.D. in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). In Summers 2021 and 2020, I was a system engineering intern at [Qualcomm Technologies, Inc](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
+I am currently a r at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working under [Enoch Lu](https://www.linkedin.com/in/enoch-lu-17a70546)'s lead. I received my Ph.D. in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). In Summers 2021 and 2020, I was a system engineering intern at [Qualcomm Technologies, Inc](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
 
 
 Research Interests
