@@ -9,17 +9,17 @@ redirect_from:
 ---  
 Hello and welcome!!
 
-My name is Sadjad Rezvani and I am a recent graduate of the Master of Science in computer engineering - artificial intelligence program at Shahrood University of Technology in Iran. I am excited to take my academic journey to the next level by pursuing a PhD. My research interests lie in the field of machine learning, with a focus on image processing. Throughout my academic and professional experiences, I have developed a strong background in computer vision and software engineering. As a Senior Computer Vision Software Engineer at Shahaab, CO, I have contributed to various projects, including designing and implementing features for a plate recognition, face recognition engine and a salt crack sorting machine. I am also passionate about teaching and have served as a Teaching Assistant for Deep Learning and Database courses. Thank you for taking the time to visit my personal site, and I invite you to explore my CV and research interests further.
+My name is Sadjad Rezvani and I am a recent graduate of the Master of Science in computer engineering - artificial intelligence program at [Shahrood University of Technology](https://shahroodut.ac.ir/en/) in Iran. I am excited to take my academic journey to the next level by pursuing a PhD. My research interests lie in the field of machine learning, with a focus on image processing. Throughout my academic and professional experiences, I have developed a strong background in computer vision and software engineering. As a Senior Computer Vision Software Engineer at [Shahaab, CO](https://shahaab-co.com/en/), I have contributed to various projects, including designing and implementing features for a plate recognition, face recognition engine and a salt crack sorting machine. I am also passionate about teaching and have served as a Teaching Assistant for Deep Learning and Database courses. Thank you for taking the time to visit my personal site, and I invite you to explore my CV and research interests further.
 
 
 
 Research Interests
 ======
-1. 5G NR
-2. Wireless Communications
-3. UAV Communications
-4. Stochastic Geometry
-5. Channel Modeling
+1. Machine Learning
+2. Image Processing
+3. Image Reconstruction
+4. GAN
+5. Medical Image Analysis
 
 News
 ======
