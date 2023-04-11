@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-Welcome to my personal website!
+Hello and welcome!!
 
-I am currently a r at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working under [Enoch Lu](https://www.linkedin.com/in/enoch-lu-17a70546)'s lead. I received my Ph.D. in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). In Summers 2021 and 2020, I was a system engineering intern at [Qualcomm Technologies, Inc](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
+My name is Sadjad Rezvani and I am a recent graduate of the Master of Science in computer engineering - artificial intelligence program at Shahrood University of Technology in Iran. I am excited to take my academic journey to the next level by pursuing a PhD. My research interests lie in the field of machine learning, with a focus on image processing. Throughout my academic and professional experiences, I have developed a strong background in computer vision and software engineering. As a Senior Computer Vision Software Engineer at Shahaab, CO, I have contributed to various projects, including designing and implementing features for a plate recognition, face recognition engine and a salt crack sorting machine. I am also passionate about teaching and have served as a Teaching Assistant for Deep Learning and Database courses. Thank you for taking the time to visit my personal site, and I invite you to explore my CV and research interests further.
+
 
 
 Research Interests
