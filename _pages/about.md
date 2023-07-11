@@ -48,5 +48,5 @@ News
 * [2014 September] Defended **M.Sc. Thesis** with title "[A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](Morteza_MSc_Thesis.pdf)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
 * [2020 September] Joined [Shahrood University of technology](https://shahroodut.ac.ir/en) as an **M.Sc. Student**.
 * [2019 Jun] Joined [Shahaab Company.](https://www.shahaab-co.com/en) as a **Developer**.
-* [2019 September] Defended **B.Sc. Project** with title "[Profiling web applications to improve intrusion detection]" from [Shahrood University of technology](https://shahroodut.ac.ir/en).
+* [2019 September] Defended **B.Sc. Project** with title "Profiling web applications to improve intrusion detection" from [Shahrood University of technology](https://shahroodut.ac.ir/en).
 * [2015 September] Joined [Shahrood University of technology](https://shahroodut.ac.ir/en) as a **B.Sc. Student**.
