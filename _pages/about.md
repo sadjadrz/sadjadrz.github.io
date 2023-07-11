@@ -45,7 +45,7 @@ News
 * [2018 January] Joined [Wireless@VirginiaTech](https://wireless.vt.edu) as a **Ph.D. Student**.
 * [2016 May] **Conference** paper "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)" is published in *IEEE International Conference on Communications (ICC) Workshops*.
 * [2016 April] **Journal** paper "[Power Distribution of Device-to-Device Communications in Underlaid Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7383234)" is published in *IEEE Wireless Communications Letters*.
-* [2014 September] Defended **M.Sc. Thesis** with title "[A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](Morteza_MSc_Thesis.pdf)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
+* [2022 September] Defended **M.Sc. Thesis** with title "[Masked face recognition using deep learning](ThesisV3_msc.pdf)" from [Shahrood University of technology](https://shahroodut.ac.ir/en) (In Persian).
 * [2020 September] Joined [Shahrood University of technology](https://shahroodut.ac.ir/en) as an **M.Sc. Student**.
 * [2019 Jun] Joined [Shahaab Company.](https://www.shahaab-co.com/en) as a **Developer**.
 * [2019 September] Defended **B.Sc. Project** with title "Profiling web applications to improve intrusion detection" from [Shahrood University of technology](https://shahroodut.ac.ir/en).
