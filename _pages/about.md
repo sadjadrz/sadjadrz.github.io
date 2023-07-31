@@ -44,7 +44,8 @@ News
 * [2019 June] Passed **Ph.D. Qualification Exam**.
 * [2018 January] Joined [Wireless@VirginiaTech](https://wireless.vt.edu) as a **Ph.D. Student**.
 * [2016 May] **Conference** paper "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)" is published in *IEEE International Conference on Communications (ICC) Workshops*.
-* [2016 April] **Journal** paper "[Power Distribution of Device-to-Device Communications in Underlaid Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7383234)" is published in *IEEE Wireless Communications Letters*.
+* [2022 December] Recognition by Iran’s National Elites Foundation for excellence in military service.
+* [2022 November] **Journal** paper ABANet: Attention Boundary-Aware Network for image segmentation is Under Review in *Expert Systems*.
 * [2022 September] Defended **M.Sc. Thesis** with title "[Masked face recognition using deep learning](ThesisV3_msc.pdf)" from [Shahrood University of technology](https://shahroodut.ac.ir/en) (In Persian).
 * [2020 September] Joined [Shahrood University of technology](https://shahroodut.ac.ir/en) as an **M.Sc. Student**.
 * [2019 Jun] Joined [Shahaab Company.](https://www.shahaab-co.com/en) as a **Developer**.
