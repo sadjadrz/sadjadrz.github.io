@@ -11,12 +11,6 @@ You can download a pdf version of my CV [here](CV_Sadjad Rezvani.pdf).
 
 Education
 -----------
-**Virginia Tech**, Blacksburg, VA, USA (Jan. 2018 -- May 2022)
-
-*Doctor of Philosophy in Electrical Engineering*
-* Advisor: [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu/)
-* Dissertation: [Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)
-
 **Shahrood University of Technology**, Shahrood, Iran (Sep. 2020 -- Sep. 2022)
 
 *Master of Science in computer Engineering –- artificial intelligence*
