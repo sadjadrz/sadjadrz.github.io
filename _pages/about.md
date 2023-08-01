@@ -27,23 +27,6 @@ Research Interests
 
 News
 ======
-* [2022 December] resented **conference** paper "[Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links](https://ieeexplore.ieee.org/document/10000688)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Rio de Janeiro, Brazil.
-* [2022 August] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is published in *IEEE Transactions on Wireless Communications*.
-* [2022 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **Senior Engineer**.
-* [2022 May] Defended **Ph.D. Dissertation** with title "[Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)" from [Virginia Tech](https://vt.edu).
-* [2022 May] Submitted **journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://arxiv.org/abs/2205.10957)" to *IEEE Transactions on Wireless Communications*.
-* [2021 December] Presented **conference** paper "[Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs](https://ieeexplore.ieee.org/document/9685132)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Madrid, Spain.
-* [2021 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
-* [2021 May] Passed **Ph.D. Preliminary Exam**.
-* [2020 December] **Book chapter** "[Stochastic Geometry-Based Performance Analysis of Drone Cellular Networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119575795.ch9)" is published in Wiley for the book *[UAV Communications for 5G and Beyond](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119575795)*.
-* [2020 September] **Journal** paper "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://ieeexplore.ieee.org/abstract/document/9206092)" is published in *IEEE Transactions on Vehicular Technology*.
-* [2020 July] **Journal** paper "[Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)" is published in *IEEE Transactions on Wireless Communications*.
-* [2020 July] **Journal** paper "[Handover Probability in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9003219)" is published in *IEEE Wireless Communications Letters*.
-* [2020 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
-* [2019 December] Presented **conference** papers "[Fundamentals of Drone Cellular Network Analysis under Random Waypoint Mobility Model](https://ieeexplore.ieee.org/abstract/document/9013341)" and "[3GPP-Inspired Stochastic Geometry-Based Mobility Model for a Drone Cellular Network](https://ieeexplore.ieee.org/abstract/document/9013645)" in *IEEE Global Communications Conference (GLOBECOM)* at Waikoloa, Hawaii, USA.
-* [2019 June] Passed **Ph.D. Qualification Exam**.
-* [2018 January] Joined [Wireless@VirginiaTech](https://wireless.vt.edu) as a **Ph.D. Student**.
-* [2016 May] **Conference** paper "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)" is published in *IEEE International Conference on Communications (ICC) Workshops*.
 * [2022 December] Recognition by Iran’s National Elites Foundation for excellence in military service.
 * [2022 November] **Journal** paper ABANet: Attention Boundary-Aware Network for image segmentation is Under Review in *Expert Systems*.
 * [2022 September] Defended **M.Sc. Thesis** with title "[Masked face recognition using deep learning](ThesisV3_msc.pdf)" from [Shahrood University of technology](https://shahroodut.ac.ir/en) (In Persian).
