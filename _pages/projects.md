@@ -110,7 +110,7 @@ redirect_from:
 	  <!-- Non-deep Networks -->
           <tr>
             <td width="35%">
-              <img src='thesis.gif' width=100%>
+              <img src='simpleviewpp.gif' width=100%>
             </td>
             <td valign="top" width="70%">
               <p>
