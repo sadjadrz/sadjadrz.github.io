@@ -124,8 +124,7 @@ redirect_from:
 		<br>
 		<a href="https://ieeexplore.ieee.org/document/9874679">[paper]</a> <a href="https://github.com/VimsLab/SimpleViewPlusPlus">[code]</a> <br>
 		<p align="justify">We propose the use of neighbor projections along with object projections to learn finer local structural information. SimpleView++ concatenates features from orthogonal perspective projections at object and neighbor levels with encoded features from the point cloud.</p>
-            </td>
-          </tr>
+
 
 	  <!-- 6DOF -->
           <tr>
@@ -263,33 +262,6 @@ redirect_from:
             </td>
           </tr>
         </table>
-
-        <!-- Teaching -->
-        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-            <tr>
-              <td width="100%" valign="middle">
-                <heading>Teaching</heading>
-								<p>
-									I have been the Instructor for the following course:
-										<ul>
-											<li>CISC210: Introduction to Systems Programming [Summer 2020]</li>
-										</ul>
-                  I have been the Lead Teaching Assistant for the following course:
-                    <ul>
-                      <li> CISC210: Introduction to Systems Programming at the University of Delaware[Fall 2022, Spring 2022, Spring 2021, Fall 2020, Spring 2020, Fall 2019, Spring 2019] </li>
-                    </ul>
-									I have been the Teaching Assistant for the following courses:
-	                  <ul>
-	                    <li> CISC220: Data Structures at the University of Delaware [Fall 2021] </li>
-											<li> CISC101: Principles of Computing at the University of Delaware [Winter 2021] </li>
-	                    <li> CISC662: Advanced Computer Architecture at the University of Delaware [Fall 2018]</li>
-	                  </ul>
-                </p>
-		<!-- Some <a href="https:/related.html">related papers</a> to mine. -->
-              </td>
-            </tr>
-        </table>
-
         <!-- Reference -->
         <p align="right"><a href="https://jonbarron.info/">[Web Cite]</a></p>
       </td>
