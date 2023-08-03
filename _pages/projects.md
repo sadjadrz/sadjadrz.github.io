@@ -4,7 +4,7 @@ title: ""
 permalink: /projects/
 author_profile: true
 redirect_from:
-  - /resume
+  - /project
 ---
 
 You can download a pdf version of my CV [here](CV_Sadjad Rezvani.pdf).
