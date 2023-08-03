@@ -103,96 +103,7 @@ redirect_from:
 
 <body>
   <table width="900" border="0" align="center" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <!-- Bio and Image -->
-        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
-          <tr>
-            <td width="80%" valign="middle">
-              <p align="center">
-                <name>Shivanand Venkanna Sheshappanavar</name>
-              </p>
-	      <p>&nbsp;</p>
-              <p align="justify">
-								I am a PhD Candidate at the Dept. of Computer and Information Sciences at the University of Delaware. I am doing my research at the VIMS Laboratory under the guidance of <a href="https://www.eecis.udel.edu/~chandra/"> Dr. Chandra Kambhamettu. </a>. I completed my Masters in Computer Science at Syracuse University, New York (2018). Previously, I worked as an IT Consultant at Oracle India Private Limited (2012-2016).
-	      <p>
-	      <p align="justify" style="color:red;">
-	        <b><span color="red">
-		I am looking for full-time Research/Assistant Professor(tenure-track) positions starting from Summer/Fall 2023.
-		</span></b>
-	      </p>
-	      <p align="justify">
-	      	My research interests are Computer Vision, Point Cloud Analysis (Recognition), Deep Learning, and Machine Learning.
-        </p>
-	      <p align="justify"> <strong>
-	        Recent News: </strong>
-	        <ul>
-		  <li> <i>April 2022:</i> Paper on <a href="https://ieeexplore.ieee.org/document/9874679">Neighborhood Views for Point Cloud Classification</a> accepted to <b>MIPR 2022</b>.
-		  <li> <i>August 2021:</i> Paper on <a href="https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Sheshappanavar_PatchAugment_Local_Neighborhood_Augmentation_in_Point_Cloud_Classification_ICCVW_2021_paper.pdf">PatchAugment</a> accepted at <b> ICCV 2021 Workshop </b>.
-			<li> <i>May 2021:</i> Awarded <b>Best Teaching Assistant</b> (Dept. of CIS) for the academic year 2020-2021</b>.
-	        </ul>
-              </p>
-	    </td>
-            <td width="20%">
-              <img src="images/self.png">
-            </td>
-          </tr>
-	  <tr>
-            <td colspan="2">
-              <p align=center margin=0px>
-                <a href="mailto:ssheshap@udel.edu">Email</a> &nbsp/&nbsp
-                <a href="data/ShivanandSheshappanavar_CV.pdf">CV</a> &nbsp/&nbsp
-                <a href="https://scholar.google.com/citations?user=I1ajnioAAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
-                <a href="https://github.com/ssheshap">Github</a> &nbsp/&nbsp
-                <a href="https://www.linkedin.com/in/ssheshappanavar/"> LinkedIn </a>
-	        <!-- <a href="https://twitter.com/sheshappanavar" class="twitter-follow-button" data-show-count="false">Follow @sheshappanvar</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-             </p>
-	     <p>&nbsp;</p>
-	   </td>
-	  </tr>
-        </table>
-	<div class = "row">
-        <table width="100%" align="center" margin-top=100px>
-            <tr>
-              <td align="center" width="16%" style = "vertical-align: middle">
-                <img src = "/images/syracuse.png" width="30%">
-              </td>
 
-              <td align="center" width="14%" style = "vertical-align: middle">
-                <img src = "/images/oracle.png" width="50%">
-              </td>
-
-              <td align="center" width="14%" style = "vertical-align: middle">
-                <img src = "/images/infineon.png" width="60%">
-              </td>
-            </tr>
-
-            <tr>
-                <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">MS, CS<br>Syracuse University<br>2016 - 2018</td>
-
-                <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">IT Consultant<br>Oracle<br>2012 - 2016</td>
-
-                <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">Research Intern<br>Infineon<br>2011 - 2012</td>
-
-                <!-- <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">MTech<br>R.V. College of Engineering<br>2010 - 2012</td>
-
-                <td align="center" style = "vertical-align: middle; background-color: rgba(255, 255, 255, 1)">BE<br>M.S.Ramaiah Institute of Technology<br>2005 - 2009</td> -->
-          </tr>
-
-          </table>
-      </div>
-
-        <!-- Research Interest -->
-        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-    <tr>
-      <td width="100%" valign="middle">
-        <heading>Research</heading>
-        <p align="justify">
-          My research interests are to develop deep learning algorithms for 3D computer vision problems and create end-to-end solution pipelines. My long-term goal is to build a mobile-based assistant for the visually impaired to help them navigate the real world.
-        </p>
-      </td>
-    </tr>
-        </table>
 
         <!-- Publications-->
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
@@ -388,4 +299,3 @@ redirect_from:
 </body>
 
 </html>
-
