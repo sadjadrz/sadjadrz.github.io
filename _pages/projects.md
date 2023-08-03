@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /project
 ---
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 
 <head>
@@ -218,7 +219,7 @@ redirect_from:
 	  <!-- 6DOF -->
           <tr>
             <td width="35%">
-              <img src='thesis.gif' width=100%>
+              <img src='images/patchaugment.gif' width=100%>
             </td>
             <td valign="top" width="70%">
               <p>
