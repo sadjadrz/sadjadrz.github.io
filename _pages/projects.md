@@ -95,10 +95,6 @@ redirect_from:
       background-color: #ffffd0;
     }
   </style>
-  <!-- <link rel="icon" type="image/png" href="images/icon.png"> -->
-  <title>Shivanand Venkanna Sheshappanavar</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
-  <link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
@@ -110,7 +106,7 @@ redirect_from:
 	  <!-- IFOR -->
           <tr>
             <td width="35%">
-              <img src='images/simpleviewpp.gif' width=100%>
+              <img src='images/thesis.gif' width=100%>
             </td>
             <td valign="top" width="70%">
               <p>
