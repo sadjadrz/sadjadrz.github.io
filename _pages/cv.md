@@ -26,7 +26,7 @@ Education
 Work experience
 -----------
 * **Senior Computer Vision Software Engineer** (Jun 2019 -- Present)
-  * [Shahaab CO.](https://www.shahaab-co.com)
+  * [Shahaab CO.](https://www.shahaab-co.com/en/)
 * **Research Assistant** (Jan. 2021 -- May 2022)
   * [Shahrood University of Technology](https://shahroodut.ac.ir/en/)
 * **Teaching Assistant** (Jan. 2020 -- Dec. 2020)
