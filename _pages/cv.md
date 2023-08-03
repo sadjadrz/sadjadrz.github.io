@@ -34,8 +34,7 @@ Work experience
 * **Teaching Assistant** (Jan. 2017 -- Dec. 2019)
   * [Shahrood University of Technology](https://shahroodut.ac.ir/en/)
   
-Programming
-Skills
+Programming Skills
 -----------
 * Programming: Python, C++, C#
 * Machine Learning: PyTorch, TensorFlow, Scikit-Learn, Numpy
