@@ -25,6 +25,7 @@ Research Interests
 
 News
 ======
+* [2023 July] **Journal** paper ABANet: Attention Boundary-Aware Network for image segmentation is Revised.
 * [2022 December] Recognition by Iran’s National Elites Foundation for excellence in military service.
 * [2022 November] **Journal** paper ABANet: Attention Boundary-Aware Network for image segmentation is Under Review in *Expert Systems*.
 * [2022 September] Defended **M.Sc. Thesis** with title "[Masked face recognition using deep learning](ThesisV3_msc.pdf)" from [Shahrood University of technology](https://shahroodut.ac.ir/en).
