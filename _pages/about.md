@@ -11,7 +11,7 @@ My name is Sadjad Rezvani and I am a recent graduate of the Master of Science in
 
 Throughout my academic and professional experience, I have developed a strong background in computer vision and software engineering. As a Senior Computer Vision Software Engineer at [Shahaab, CO](https://shahaab-co.com/en/), I have contributed to various projects, including design and implement features for a plate recognition system, face recognition engine, and  a salt crack sorting machine. You can find more details about these projects on my [Project Page](https://sadjadrz.github.io/projects/). I am also passionate about teaching and have served as a "Teaching Assistant" for Deep Learning and Database courses. 
 
-Thank you for taking the time to visit my personal site, and I invite you to further explore my CV and research interests.
+Thank you for taking the time to visit my personal site, and I invite you to further explore my CV and Projects.
 
 
 
