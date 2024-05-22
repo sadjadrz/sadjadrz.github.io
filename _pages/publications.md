@@ -14,4 +14,4 @@ Journal Articles
 ---------------------
 
 **S. Rezvani** and  M. Fateh and H. Khosravi, "ABANet: Attention Boundary-Aware Network for image
-segmentation." submitted to *Expert Systems*, Nov 2022. (Under Review) [[Code](https://github.com/sadjadrz)]
+segmentation," Expert systems, e13625, May 2024. [[Wiley](https://onlinelibrary.wiley.com/doi/10.1111/exsy.13625)] [[Code](https://github.com/sadjadrz/ABANet-Attention-boundary-aware-network-for-image-segmentation)]
