@@ -27,7 +27,6 @@ News
 ======
 * [2023 May] **Journal** paper "[ABANet: Attention Boundary-Aware Network for image segmentation](https://onlinelibrary.wiley.com/doi/10.1111/exsy.13625)" is published in Expert systems.
 * [2022 December] Recognition by Iran’s National Elites Foundation for excellence in military service.
-* [2022 November] **Journal** paper ABANet: Attention Boundary-Aware Network for image segmentation is Under Review in *Expert Systems*.
 * [2022 September] Defended **M.Sc. Thesis** with title "[Masked face recognition using deep learning](ThesisV3_msc.pdf)" from [Shahrood University of technology](https://shahroodut.ac.ir/en).
 * [2020 September] Joined [Shahrood University of technology](https://shahroodut.ac.ir/en) as an **M.Sc. Student**.
 * [2019 June] Joined [Shahaab Company.](https://www.shahaab-co.com/en) as a **Computer Vision Programmer**.
