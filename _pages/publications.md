@@ -13,5 +13,5 @@ author_profile: true
 Journal Articles
 ---------------------
 
-**S. Rezvani** and  M. Fateh and H. Khosravi, "ABANet: Attention Boundary-Aware Network for image
+**S. Rezvani**, M. Fateh and H. Khosravi, "ABANet: Attention Boundary-Aware Network for image
 segmentation," Expert systems, e13625, May 2024. [[paper](ABANet.pdf)] [[Code](https://github.com/sadjadrz/ABANet-Attention-boundary-aware-network-for-image-segmentation)]
