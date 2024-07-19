@@ -19,8 +19,8 @@ Research Interests
 ======
 1. Machine Learning
 2. Image Processing
-3. Image Reconstruction
-4. Generative Adversarial Networks(GANs)
+3. Generative AI
+4. Image Reconstruction
 5. Medical Image Analysis
 
 News
