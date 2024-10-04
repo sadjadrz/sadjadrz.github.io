@@ -25,6 +25,7 @@ Research Interests
 
 News
 ======
+* [2024 October] Achieved an overall score of 7 in the IELTS exam.
 * [2024 August] **Journal** paper "[Single Image Denoising via a New Lightweight Learning-Based Model](https://ieeexplore.ieee.org/document/10654252)" is published in IEEE Access.
 * [2024 May] **Journal** paper "[ABANet: Attention Boundary-Aware Network for image segmentation](https://onlinelibrary.wiley.com/doi/10.1111/exsy.13625)" is published in Expert systems.
 * [2022 December] Recognized as an elite member by a national academic foundation.
