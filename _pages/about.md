@@ -18,9 +18,9 @@ Thank you for taking the time to visit my personal site, and I invite you to fur
 Research Interests
 ======
 1. Machine Learning
-2. Image Processing
+2. Deep Learning
 3. Generative AI
-4. Image Reconstruction
+4. Multimodal
 5. Medical Image Analysis
 
 News
