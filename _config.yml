@@ -86,7 +86,7 @@ author:
   location         : "Shahrood, Semnan, Iran"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=jxn15pUAAAAJ&hl=en&authuser=1"
   email            : "sadjadrezvani@shahroodut.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +99,7 @@ author:
   github           : "sadjadrz"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : "sadjadrz"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sadjadrz"
