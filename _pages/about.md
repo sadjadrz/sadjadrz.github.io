@@ -20,8 +20,9 @@ Research Interests
 1. Machine Learning
 2. Deep Learning
 3. Generative AI
-4. Multimodal
+4. Domain Adaptation
 5. Medical Image Analysis
+6. Multimodal
 
 News
 ======
