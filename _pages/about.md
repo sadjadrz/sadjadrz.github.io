@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-My name is Sadjad Rezvani and I am a recent graduate of the Master of Science in computer engineering - artificial intelligence program at [Shahrood University of Technology](https://shahroodut.ac.ir/en/) in Iran. I am excited to take my academic journey to the next level by pursuing a PhD in the field of computer vision.
+My name is Sadjad Rezvani and I am a graduate of the Master of Science in computer engineering - artificial intelligence program at [Shahrood University of Technology](https://shahroodut.ac.ir/en/) in Iran. I am excited to take my academic journey to the next level by pursuing a PhD in the field of computer vision.
 
 Throughout my academic and professional experience, I have developed a strong background in computer vision and software engineering. As a Senior Computer Vision Software Engineer at [Shahaab, CO](https://shahaab-co.com/en/), I have contributed to various projects, including design and implement features for a plate recognition system, face recognition engine, and  a salt crack sorting machine. You can find more details about these projects on my [Project Page](https://sadjadrz.github.io/projects/). I am also passionate about teaching and have served as a "Teaching Assistant" for Deep Learning and Database courses. 
 
@@ -26,6 +26,7 @@ Research Interests
 
 News
 ======
+* [2025 March] **Journal** paper "[FusionLungNet: Multi-scale fusion convolution with refinement network for lung CT image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1746809425003696)" is published in Biomedical Signal Processing and Control.
 * [2024 October] Achieved an overall score of 7 in the IELTS exam.
 * [2024 August] **Journal** paper "[Single Image Denoising via a New Lightweight Learning-Based Model](https://ieeexplore.ieee.org/document/10654252)" is published in IEEE Access.
 * [2024 May] **Journal** paper "[ABANet: Attention Boundary-Aware Network for image segmentation](https://onlinelibrary.wiley.com/doi/10.1111/exsy.13625)" is published in Expert systems.
