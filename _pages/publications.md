@@ -12,7 +12,7 @@ author_profile: true
 
 Journal Articles
 ---------------------
-**S. Rezvani**, M. Fateh, Y. Jalali and A. Fateh, "FusionLungNet: Multi-scale Fusion Convolution with Refinement Network for Lung CT Image Segmentation," Under review in biomedical signal processing and control journal, October 2024. [[paper](https://arxiv.org/html/2410.15812v1)] [[Code](https://github.com/sadjadrz/FusionLungNet)]
+**S. Rezvani**, M. Fateh, Y. Jalali and A. Fateh, "FusionLungNet: Multi-scale Fusion Convolution with Refinement Network for Lung CT Image Segmentation," Biomedical Signal Processing and Control, March 2025. [[paper](https://arxiv.org/html/2410.15812v1)] [[Code](https://github.com/sadjadrz/FusionLungNet)]
 
 **S. Rezvani**, F. Soleymani, Y. Rezvani,  A. Alavi Gharahbagh and V. Abolghasemi, "Single Image Denoising via a New Lightweight Learning-Based Model," IEEE Access, August 2024. [[paper](https://ieeexplore.ieee.org/document/10654252)] [[Code](https://github.com/sadjadrz/Zero-shot-image-denoising-based-on-downsampling)]
 
