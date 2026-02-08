@@ -26,6 +26,7 @@ Research Interests
 
 News
 ======
+* [2026 February] **Journal** paper "[BRISC: Annotated Dataset for Brain Tumor Segmentation and Classification](https://www.nature.com/articles/s41597-026-06753-y)" is published in Scientific Data
 * [2025 March] **Journal** paper "[FusionLungNet: Multi-scale fusion convolution with refinement network for lung CT image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1746809425003696)" is published in Biomedical Signal Processing and Control.
 * [2024 October] Achieved an overall score of 7 in the IELTS exam.
 * [2024 August] **Journal** paper "[Single Image Denoising via a New Lightweight Learning-Based Model](https://ieeexplore.ieee.org/document/10654252)" is published in IEEE Access.
