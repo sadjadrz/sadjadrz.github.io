@@ -12,7 +12,7 @@ author_profile: true
 
 Journal Articles
 ---------------------
-A. Fateh, Y. Rezvani, S. Moayedi, **S. Rezvani**, F. Fateh, M. Fateh and V. Abolghasemi, "BRISC: Annotated Dataset for Brain Tumor Segmentation and Classification," Scientific Data, february 2026. [[paper](https://www.nature.com/articles/s41597-026-06753-y)] [[Code](https://www.kaggle.com/datasets/briscdataset/brisc2025/)]
+A. Fateh, Y. Rezvani, S. Moayedi, **S. Rezvani**, F. Fateh, M. Fateh and V. Abolghasemi, "BRISC: Annotated Dataset for Brain Tumor Segmentation and Classification," Scientific Data, February 2026. [[paper](https://www.nature.com/articles/s41597-026-06753-y)] [[Code](https://www.kaggle.com/datasets/briscdataset/brisc2025/)]
 
 **S. Rezvani**, M. Fateh, Y. Jalali and A. Fateh, "FusionLungNet: Multi-scale Fusion Convolution with Refinement Network for Lung CT Image Segmentation," Biomedical Signal Processing and Control, March 2025. [[paper](https://arxiv.org/html/2410.15812v1)] [[Code](https://github.com/sadjadrz/FusionLungNet)]
 
